@@ -1,2 +1,3 @@
 # PonyGame
-Pony game for game jam
+
+Pony game for October spooky game jam!
